@@ -11,12 +11,6 @@
 
 ## Band Name Generator
 
-```python
-# Welcome to The Band Name Generator!
-# This program asks for city and pet name to create a band name
+### Welcome to The Band Name Generator!
 
-print("Welcome to The Band Name Generator!")
-city = input("What city did you grow up in?\n")
-pet = input("What is the name of your first pet?\n")
-print(f"Your band name could be: {city} {pet}")
-```
+### This program asks for city and pet name to create a band name
